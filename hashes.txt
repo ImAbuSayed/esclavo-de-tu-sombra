@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Esclavo de tu sombra
+
+This log tracks the cryptographic history and versioning for the song **Esclavo de tu sombra** (esclavo-de-tu-sombra).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T04:01:29.459877 | `v1` | `9069a57bfd88759aac887a33c04e1f9b22f3776cc638969569ae51c558e8e45e` | `f02c56440eedc9054949b66cbfacf734852c8dac21fce94f947d621f69b6f96a` | `2026-06-20_esclavo-de-tu-sombra-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
